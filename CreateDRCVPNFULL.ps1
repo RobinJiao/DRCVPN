@@ -1,2 +1,2 @@
-Add-vpnconnection -Name DRCVPNFULL -ServerAddress 111.207.128.194 -TunnelType l2tp -AuthenticationMethod pap -RememberCredential -l2tpPsk greatwall -Force
+Add-vpnconnection -Name DRCVPNFULL -ServerAddress xxx.xxx.xxx.xxx -TunnelType l2tp -AuthenticationMethod pap -RememberCredential -l2tpPsk ****** -Force
 
